@@ -5,5 +5,9 @@ Epam automation training
 2. the second local update 9:25 AM Wendsday 31
 3. the third local commit 9:28 AM Wensday 31
 4. create new 'develop' branch
+
 5. commit from master - conflict
+
+5. commit from develop branch
+
 
