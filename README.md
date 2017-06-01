@@ -10,4 +10,6 @@ Epam automation training
 
 5. commit from develop branch
 
+6. new update in develop branch
+
 
